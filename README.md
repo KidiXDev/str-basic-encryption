@@ -1,4 +1,4 @@
-# Golden Ratio Calculation
+# String Basic Encryption
 Python simple library to encrypt strings with MD5, SHA256 and SHA512 hashes
 
 ## Installation
