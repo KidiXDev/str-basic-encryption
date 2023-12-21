@@ -1,0 +1,1 @@
+from str_basic_encryption.encryption import StrEncryption
